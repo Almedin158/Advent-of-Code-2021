@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9bf5f72b-40ac-4bcd-96f1-c49d00a285dc": {
+      "ProjectGuid": "9bf5f72b-40ac-4bcd-96f1-c49d00a285dc",
+      "DisplayName": "Advent of Code 2020, 01-12-2021",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

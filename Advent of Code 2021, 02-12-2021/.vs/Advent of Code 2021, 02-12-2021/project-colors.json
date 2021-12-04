@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e36b9222-6c86-4a1b-b43b-fa8c1ad1c535": {
+      "ProjectGuid": "e36b9222-6c86-4a1b-b43b-fa8c1ad1c535",
+      "DisplayName": "Advent of Code 2021, 02-12-2021",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

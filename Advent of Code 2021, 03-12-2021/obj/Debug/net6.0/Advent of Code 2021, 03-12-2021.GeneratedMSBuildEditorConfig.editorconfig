@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Advent_of_Code_2021__03_12_2021
+build_property.ProjectDir = C:\Users\Almedin\Desktop\Github repositories\Advent-of-Code-2021\Advent of Code 2021, 03-12-2021\
